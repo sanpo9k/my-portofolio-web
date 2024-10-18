@@ -34,7 +34,7 @@ function Home() {
               </h2>
             </div>
             <a
-              href="mailto:riosidqi21@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=riosidqi21@gmail.com" target="_blank"
               className="min-h-[96px] bg-[#FF4343] hover:bg-black border border-white/40 transition-[background-color] duration-300 ease-[ease-out] text-[40px] leading-[48px] font-medium text-center tracking-[-0.01em] px-8 py-6 m-8 rounded-[99px] max-md:min-h-[80px] max-md:text-2xl max-md:leading-8 text-white drop-shadow-lg"
             >riosidqi21@gmail.com</a>
           </div>
